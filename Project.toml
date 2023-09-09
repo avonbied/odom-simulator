@@ -1,0 +1,9 @@
+name = "OdomSimulator"
+uuid = "f53fc397-eb38-4721-b84d-3fb3ada66df6"
+authors = ["Lex <58815784+avonbied@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
